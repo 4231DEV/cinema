@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskinler_Sinema", "Degiskinler_Sinema\Degiskinler_Sinema.csproj", "{4499AFFF-481A-48E6-9095-9743C0D354FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4499AFFF-481A-48E6-9095-9743C0D354FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4499AFFF-481A-48E6-9095-9743C0D354FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4499AFFF-481A-48E6-9095-9743C0D354FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4499AFFF-481A-48E6-9095-9743C0D354FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB477568-994A-4D99-9D75-F75E68DB3523}
+	EndGlobalSection
+EndGlobal

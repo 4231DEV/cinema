@@ -1,0 +1,10 @@
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\bin\Debug\Degiskinler_Sinema.exe.config
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\bin\Debug\Degiskinler_Sinema.exe
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\bin\Debug\Degiskinler_Sinema.pdb
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\obj\Debug\Degiskinler_Sinema.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\obj\Debug\Degiskinler_Sinema.Form1.resources
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\obj\Debug\Degiskinler_Sinema.Properties.Resources.resources
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\obj\Debug\Degiskinler_Sinema.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\obj\Debug\Degiskinler_Sinema.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\obj\Debug\Degiskinler_Sinema.exe
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskinler_Sinema\Degiskinler_Sinema\obj\Debug\Degiskinler_Sinema.pdb
